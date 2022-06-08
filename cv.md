@@ -26,4 +26,4 @@ const func = (num) => {
 };
 ```
 **Education** - joiner carpenter   
-**English language skill** - not detected :)
+**English language skill** - not detected :) 
